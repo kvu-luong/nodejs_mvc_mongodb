@@ -37,3 +37,13 @@ keyword: google login for website
 - https://www.youtube.com/watch?v=wcUdBgktd4s&ab_channel=Keith%2CtheCoder 
 
 ## Sendmail 
+
+- turn on less secure of gmail: https://myaccount.google.com/u/2/lesssecureapps?rapt=AEjHL4MF8qJkh_MI1vlyc9qxoPKf-KBCRIuIaEn3NAEFSim1BdCrNXMxW5nqphuqk7t4Mw91UV3HlNmYjAzCFvWtNqfUYqGOdw&pli=1
+
+- tutorial: https://www.freecodecamp.org/news/use-nodemailer-to-send-emails-from-your-node-js-server/ 
+
+- turn off less secure and use google project : https://console.cloud.google.com/
+    + Create project
+    + Create credentials 
+    + Get refresh token with : https://developers.google.com/oauthplayground 
+    + then configuration code with new format
