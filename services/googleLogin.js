@@ -1,5 +1,4 @@
 const { google } = require('googleapis');
-const OAuth2Data = require('../google_key.json');
 require('dotenv').config();
 const CLIENT_ID = process.env.GOOGLE_CLIENT_ID;
 const CLIENT_SECRET = process.env.GOOGLE_SECRET_ID;

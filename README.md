@@ -30,6 +30,12 @@ keyword: google login for website
 
 - https://developers.facebook.com/docs/facebook-login/web/
 - https://www.youtube.com/watch?v=4wnjn8XB1xE&ab_channel=CodingShiksha
+- https://codingshiksha.com/javascript/node-js-passport-facebook-authentication-using-express-and-mongodb-full-project/ 
+- api facebook: https://developers.facebook.com/docs/graph-api/overview
+
+# return email infos
+
+- facebook account need to setup in settings -> general -> email
 
 ## Github login
 
