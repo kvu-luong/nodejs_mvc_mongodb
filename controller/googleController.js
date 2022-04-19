@@ -43,7 +43,7 @@ class GoogleController {
     }
 
     static logout = (req, res) => {
-        
+        let auth2 = google.oauth2.in
     }
 }
 
