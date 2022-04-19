@@ -26,13 +26,13 @@ const transporter = nodemailer.createTransport({
     }
 });
 console.log({
-    user: process.env.MAIL_USERNAME,
+    user: process.env.EMAIL_USERNAME,
     pass: process.env.PASSWORD
 });
 const mailConfigurations  = {
-    from: 'tenlavodich@gmail.com',
+    // from: 'tenlavodich@gmail.com',
     to: 'hung13923289@gmail.com',
-    subject: 'Sending Email using Node.js',
+    subject: 'Sending Email using Node.js news',
     text: `Hi! There, You know I am using the NodeJS
             Coding along with NodeMailer to send this email.`
 };

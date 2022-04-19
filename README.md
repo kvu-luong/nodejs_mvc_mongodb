@@ -23,8 +23,7 @@ npm run dev
 ## Google Login
 
 keyword: google login for website
-
-- https://developers.google.com/identity/sign-in/web/sign-in 
+- https://dev.to/uddeshjain/authentication-with-google-in-nodejs-1op5
 - https://www.youtube.com/watch?v=Y2ec4KQ7mP8 
 
 ## Facebook login
